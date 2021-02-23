@@ -14,7 +14,7 @@ $ npm install @bamblehorse/tiny
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@omkarkirpan/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"

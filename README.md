@@ -1,7 +1,7 @@
 # @omkarkirpan/tiny
 
 [![npm (scoped)](https://img.shields.io/npm/v/@omkarkirpan/tiny)](https://github.com/OmkarKirpan/tiny)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@omkarkirpan/tiny/1.0.0)](https://github.com/OmkarKirpan/tiny)
+[![install size](https://packagephobia.com/badge?p=@omkarkirpan/tiny)](https://packagephobia.com/result?p=@omkarkirpan/tiny)
 
 Removes all spaces from a string.
 
